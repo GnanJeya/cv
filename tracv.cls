@@ -5,6 +5,9 @@
 
 \LoadClassWithOptions{article}
 
+% This should actually be in the cv.tex file so that it is user controlled. Adding it in this class file means that the margin is now permanently fit 	to the value stated here (2cm)
+\usepackage[margin=2cm]{geometry}
+
 \RequirePackage{changepage}
 \RequirePackage{hanging}
 \RequirePackage{parskip}
@@ -12,7 +15,7 @@
 
 \RequirePackage{fancyhdr}
 \pagestyle{fancy}
-\lhead{\textsc{\authora}}
+\lhead{\textsc{\namea}}
 \chead{C.V.}
 \rhead{\thepage}
 \cfoot{}

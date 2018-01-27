@@ -1,1 +1,1 @@
-[[PDF status]](http://latexonline.cc/compile?git=https://github.com/gnanjeya/cv&command=xelatex&target=cv.tex&download=gnanjeya_cv.pdf)
+[![PDF Status](https://img.shields.io/badge/pdf_status-built-brightgreen.svg)](http://latexonline.cc/compile?git=https://github.com/gnanjeya/cv&command=xelatex&target=cv.tex&download=gananjeyakumar_cv.pdf)

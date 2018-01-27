@@ -1,1 +1,1 @@
-[![PDF Status](https://www.sharelatex.com/github/repos/GnanJeya/cv/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/GnanJeya/cv/builds/latest/output.pdf)
+[![Convert to PDF](http://latexonline.cc/compile?git=https://github.com/gnanjeya/cv&command=xelatex&target=cv.tex&download=gnanjeya_cv.pdf)
